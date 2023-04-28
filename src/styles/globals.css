@@ -1,0 +1,10 @@
+:root{
+  --primary: rgba(221, 49, 49, 0.712);
+  --secondary: rgba(172, 80, 80, 0.712);
+  --defaultColor: rgba(212, 154, 154, 0.712);
+
+}
+
+body{
+  background: linear-gradient(0.25turn, var(--primary), var(--secondary), var(--defaultColor));
+}
